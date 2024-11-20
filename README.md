@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I’m @Daniel-Pham831 or Dan for short
+<br/>👀 I’m currently a Game Developer
+<br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/DanielPham831/)
+<!--END_SECTION:waka-->
 
-<!--
-**cuongcris/cuongcris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://www.facebook.com/criergaming/">
+  <img align="left" width="40px" alt="Ngô Cường -Erling Ngo | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
+</a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Avepoint Da Nang
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<br />
+
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100% ;
+  grid-column: 1/-1;" 
+     src="https://github-readme-stats.vercel.app/api?username=cuongcris&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="auto" height="auto" />
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100% ;
+  grid-column: 1/-1;" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=cuongcris&theme=radical&hide_border=false" width="auto" height="auto" />
+     
+<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
+<img align="right" alt="GIF" src="https://github.com/cuongcris/cuongcris/blob/main/giphy.gif?raw=true" width="35%" height="35%" />
