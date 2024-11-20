@@ -1,6 +1,6 @@
-👋 Hi, I’m @Daniel-Pham831 or Dan for short
-<br/>👀 I’m currently a Game Developer
-<br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/DanielPham831/)
+👋 Hi, I’m @cuongcris Ngô Minh Cường
+<br/>👀 I’m currently a Web Developer
+<br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/ngô-cường-4b5938229/)
 <!--END_SECTION:waka-->
 
 <div>
