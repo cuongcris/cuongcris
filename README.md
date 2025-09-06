@@ -2,7 +2,9 @@
 <br/>👀 I’m currently a Web Developer
 <br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/ngô-cường-4b5938229/)
 <!--END_SECTION:waka-->
-
+Language
+  English : Advanced
+  Japanese : Basic
 <div>
 <a href="https://www.facebook.com/criergaming/">
   <img align="left" width="40px" alt="Ngô Cường -Erling Ngo | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
