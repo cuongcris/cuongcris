@@ -25,11 +25,9 @@
 
 ### 🛠️ Tech Stack & Tools
 
-*(Bạn có thể thay đổi các icon bên dưới bằng cách thêm/bớt tên công nghệ)*
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,vscode,figma" />
   </a>
 </p>
 
