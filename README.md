@@ -9,9 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Web Developer**
-- 🌱 I’m currently learning more about **Modern Web Technologies** *(Thay đổi theo ý bạn)*
-- 💬 Ask me about **Web Development, Frontend, Backend** *(Thay đổi theo ý bạn)*
-- 🌍 **Languages:** English (Advanced) 🇺🇸 | Japanese (Basic) 🇯🇵
+- 🌱 I’m currently learning more about **Modern Web Technologies** ,**Game development** 
+- 💬 Ask me about **Web Development, Frontend, Backend** 
+- 🌍 **Languages:** English (Advanced) 🇺🇸 | Japanese (N3) 🇯🇵
 - 📫 **How to reach me:** <p align="left">
   <a href="https://www.linkedin.com/in/ngô-cường-4b5938229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
